@@ -5,7 +5,9 @@
 ![11](https://user-images.githubusercontent.com/91388754/144760455-1db74ea1-8462-4a8e-bf07-251fe2fd08c3.png)
 ![22](https://user-images.githubusercontent.com/91388754/144760463-df44ffd8-44d9-405e-85a9-74d43f7130f5.png)
 
-## What you will learn
+## On My Way To Learn Flutter
+
+### What i learn
 - How to use Flutter themes to create coherent branding.
 - How to create multi-page apps using Flutter Routes and Navigator.
 - How to extract and refactor Flutter Widgets with a click of the button.
@@ -17,4 +19,4 @@
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 - How to use State Management
-  .
+  
