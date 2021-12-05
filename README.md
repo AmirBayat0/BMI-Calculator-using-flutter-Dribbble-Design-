@@ -7,6 +7,10 @@
 
 ## On My Way To Learn Flutter
 
+### What I Create
+* I Made a Body Mass Index Calculator inspired by the beautiful designs made by Ruben Vaalt. It's a multi screen app with simple functionality but full-on
+custom styling!
+
 ### What i learn
 - How to use Flutter themes to create coherent branding.
 - How to create multi-page apps using Flutter Routes and Navigator.
