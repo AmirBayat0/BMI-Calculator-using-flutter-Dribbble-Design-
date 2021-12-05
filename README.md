@@ -1,4 +1,4 @@
-# # BMI Calculator 💪 (Dribbble Design)
+# BMI Calculator 💪 (Dribbble Design)
 ## Screenshots
 
 ![33](https://user-images.githubusercontent.com/91388754/144760467-3adeb191-1006-4b8e-b83f-e9385521331e.png)
